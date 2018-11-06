@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+"""
+Created on 2018-11-06
+
+@author: 'Jiezhi.G@gmail.com'
+
+Reference: 
+"""
 from django.conf import settings
 
 
