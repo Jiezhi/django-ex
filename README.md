@@ -1,4 +1,5 @@
 # Openshift quickstart: Django
+> This project has upgrade django to v2.1.3 with python3.7.
 
 This is a [Django](http://www.djangoproject.com) project that you can use as the starting point to develop your own and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
 
